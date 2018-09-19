@@ -1,0 +1,5 @@
+---
+name: ruby_factorial
+buildpack: ruby_buildpack
+host: factorial
+domain: apps.internal

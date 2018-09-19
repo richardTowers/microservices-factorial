@@ -1,0 +1,5 @@
+---
+name: dotnet_core_factorial
+buildpack: dotnet_core_buildpack
+host: factorial
+domain: apps.internal

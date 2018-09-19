@@ -1,0 +1,5 @@
+---
+name: java_factorial
+buildpack: java_buildpack
+host: factorial
+domain: apps.internal

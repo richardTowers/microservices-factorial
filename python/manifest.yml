@@ -1,0 +1,5 @@
+---
+name: python_factorial
+buildpack: python_buildpack
+host: factorial
+domain: apps.internal

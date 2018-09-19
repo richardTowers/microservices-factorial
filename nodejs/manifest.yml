@@ -1,0 +1,5 @@
+---
+name: nodejs_factorial
+buildpack: nodejs_buildpack
+host: factorial
+domain: apps.internal

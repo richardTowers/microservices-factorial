@@ -1,0 +1,5 @@
+---
+name: go_factorial
+buildpack: go_buildpack
+host: factorial
+domain: apps.internal

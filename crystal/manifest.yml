@@ -1,0 +1,5 @@
+---
+name: binary_factorial
+buildpack: binary_buildpack
+host: factorial
+domain: apps.internal

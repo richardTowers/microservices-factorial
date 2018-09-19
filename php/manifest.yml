@@ -1,0 +1,5 @@
+---
+name: php_factorial
+buildpack: php_buildpack
+host: factorial
+domain: apps.internal
