@@ -1,5 +1,5 @@
 ---
 name: staticfile_factorial
 buildpack: staticfile_buildpack
-host: one
+host: base-factorial
 domain: apps.internal
