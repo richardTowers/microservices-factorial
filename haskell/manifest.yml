@@ -1,5 +1,5 @@
 ---
-name: binary_factorial
+name: haskell_factorial
 buildpack: binary_buildpack
 host: factorial
 domain: apps.internal
