@@ -9,7 +9,7 @@ apps=(
   # java
   nodejs
   php
-  # python
+  python
   ruby
   staticfile
 )
