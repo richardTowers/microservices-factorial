@@ -8,7 +8,7 @@ apps=(
   # haskell
   # java
   nodejs
-  # php
+  php
   # python
   ruby
   staticfile
