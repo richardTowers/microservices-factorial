@@ -1,0 +1,14 @@
+name:          microservice-factorial
+version:       1.0.0
+cabal-version: >= 1.20
+build-type:    Simple
+
+executable          microservice-factorial
+    default-language:   Haskell2010
+    main-is:            Main.hs
+    default-extensions: OverloadedStrings
+    build-depends:      base
+                      , bytestring
+                      , http-conduit
+                      , scotty
+                      , text

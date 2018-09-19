@@ -5,7 +5,7 @@ apps=(
   # crystal
   # dotnet_core
   # go
-  # haskell
+  haskell
   # java
   nodejs
   php
