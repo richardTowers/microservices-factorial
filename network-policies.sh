@@ -7,7 +7,7 @@ apps=(
   # go
   # haskell
   # java
-  # nodejs
+  nodejs
   # php
   # python
   ruby
