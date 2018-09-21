@@ -4,7 +4,7 @@ set -ueo pipefail
 apps=(
   crystal
   dotnet_core
-  # go
+  go
   haskell
   # java
   nodejs
