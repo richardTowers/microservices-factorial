@@ -2,7 +2,7 @@
 set -ueo pipefail
 
 apps=(
-  # crystal
+  crystal
   # dotnet_core
   # go
   haskell
